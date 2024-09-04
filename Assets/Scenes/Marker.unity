@@ -709,6 +709,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b0024d61725a1d48926ce2d39988e05, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  UIBeach: {fileID: 0}
 --- !u!1 &1125729850
 GameObject:
   m_ObjectHideFlags: 0
@@ -895,6 +896,41 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3435564249804836889, guid: 44af740032094bf48bddbf3f4644216f,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3435564249804836889, guid: 44af740032094bf48bddbf3f4644216f,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3435564249804836889, guid: 44af740032094bf48bddbf3f4644216f,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3435564249804836889, guid: 44af740032094bf48bddbf3f4644216f,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3435564249804836889, guid: 44af740032094bf48bddbf3f4644216f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3435564249804836889, guid: 44af740032094bf48bddbf3f4644216f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3435564249804836889, guid: 44af740032094bf48bddbf3f4644216f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5262358242281827243, guid: 44af740032094bf48bddbf3f4644216f,
         type: 3}
       propertyPath: m_Name
@@ -903,7 +939,7 @@ PrefabInstance:
     - target: {fileID: 5262358242281827243, guid: 44af740032094bf48bddbf3f4644216f,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6001584948362688167, guid: 44af740032094bf48bddbf3f4644216f,
         type: 3}

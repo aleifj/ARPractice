@@ -5,13 +5,13 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/AR Template Scene.unity
     guid: 4478f20711b17c5438c05d1d95f734be
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/FaceFilter.unity
     guid: 670bbeb064d85ad41b719f0fead0e731
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/InteractiveFilter.unity
     guid: ec364f8d9636b93498ab34f9495cd39f
   - enabled: 1
